@@ -10,5 +10,5 @@
 I am a Web Developer, I like developer bot
 
 - ⚙️ Stack: Vue, React, Typescript, Golang
-- 🏢 I'm currently working on some **Lion Parcel & Pindad**
+- 🏢 I'm currently working on *Epitome Global & PT.Pindad**
 - 🌱 I'm currently learning about Golang
