@@ -12,3 +12,5 @@ I am a Web Developer, I like developer bot
 - ⚙️ Stack: Vue, React, Typescript, Golang
 - 🏢 I'm currently working on *Epitome Global & PT.Pindad**
 - 🌱 I'm currently learning about Golang
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sluxz3r&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
